@@ -1,3 +1,5 @@
+This project is still maintained but I would recommend using the similar fix/feature in the excellent [EditorHelper2](https://github.com/Senior-S/EditorHelper) project.
+
 # CartoResFix
 Fixes the Low Resolution issue for Small Cartography Volumes in Unturned's `Level.CaptureSatelliteImage()` (Sadly not Chart, was a little too hard for me)
 
